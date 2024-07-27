@@ -84,18 +84,6 @@ with gr.Blocks() as demo:
         gr.Markdown("<p style='text-align: center;'><i>Upload an audio file or use your microphone to transcribe speech and then translate it to different languages.</i></p>")    
 
 
-    gr.Examples(
-            examples=[
-                "Speech_samples/consumer4.wav", 
-                "Speech_samples/samples_audio-files_05-gettysburg-address-2min.wav"
-                "Speech_samples/samples_audio-files_12-jfk-speech-12sec.wav"
-                "Speech_samples/harvard.wav"
-            ],
-            inputs=audio_input,
-            label="Try these examples"
-        )
-
-    
     with gr.Row():
         # First interface for transcription
         gr.Markdown("## 🎙️ Transcribe Audio ") 
@@ -113,6 +101,18 @@ with gr.Blocks() as demo:
         translate_button = gr.Button("Translate")
         translated_output = gr.Textbox(label="Translated Text")
         translate_button.click(translate_interface, inputs=[transcribed_output, lang_dropdown], outputs=translated_output)
+
+
+     gr.Examples(
+            examples=[
+                "Speech_samples/consumer4.wav", 
+                "Speech_samples/samples_audio-files_05-gettysburg-address-2min.wav"
+                "Speech_samples/samples_audio-files_12-jfk-speech-12sec.wav"
+                "Speech_samples/harvard.wav"
+            ],
+            inputs=audio_input,
+            label="Try these examples")
+
 
     gr.Markdown("---")
     with gr.Accordion("See Details", open = False):
