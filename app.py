@@ -106,9 +106,9 @@ with gr.Blocks() as demo:
      gr.Examples(
             examples=[
                 "Speech_samples/consumer4.wav", 
-                "Speech_samples/samples_audio-files_05-gettysburg-address-2min.wav"
-                "Speech_samples/samples_audio-files_12-jfk-speech-12sec.wav"
-                "Speech_samples/harvard.wav"
+                "Speech_samples/samples_audio-files_05-gettysburg-address-2min.wav",
+                "Speech_samples/samples_audio-files_12-jfk-speech-12sec.wav",
+                "Speech_samples/harvard_long.wav",
             ],
             inputs=audio_input,
             label="Try these examples")
