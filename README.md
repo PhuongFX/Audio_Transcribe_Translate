@@ -59,6 +59,18 @@ license: mit
 | large-v2 | 1550 M     | x                                                    | [✓](https://huggingface.co/openai/whisper-large-v2) |
 | large-v3 | 1550 M     | x                                                    | [✓](https://huggingface.co/openai/whisper-large-v3) |
 
+
+	For both the machine translation and language model, MADLAD-400 (Multilingual (400+ languages)) is used. For the machine translation model, a combination of parallel datasources covering 157 languages is also used. Using a Sentence Piece Model with 256k tokens shared on both the encoder and decoder side. Each input sentence has a <2xx> token prepended to the source sentence to indicate the target language.
+
+
+![image/png](https://cdn-uploads.huggingface.co/production/uploads/64b7f632037d6452a321fa15/EzsMD1AwCuFH0S0DeD-n8.png)
+
+![image/png](https://cdn-uploads.huggingface.co/production/uploads/64b7f632037d6452a321fa15/CJ5zCUVy7vTU76Lc8NZcK.png)
+
+![image/png](https://cdn-uploads.huggingface.co/production/uploads/64b7f632037d6452a321fa15/NK0S-yVeWuhKoidpLYh3m.png)
+
+See the [research paper](https://arxiv.org/pdf/2309.04662.pdf) for further details.
+
     
 ## Disclaimer 🙅‍♂️
 
