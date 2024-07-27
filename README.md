@@ -1,3 +1,5 @@
+[![GitHub](https://img.shields.io/github/license/blackary/streamlit-keyup.svg)](LICENSE)
+
 ---
 title: Audio Transcribe Translate
 emoji: 🚀
