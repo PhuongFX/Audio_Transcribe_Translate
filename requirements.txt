@@ -1,4 +1,5 @@
 torch
 gradio
-transformer
+git+https://github.com/huggingface/transformers.git
 spaces
+huggingface_hub
