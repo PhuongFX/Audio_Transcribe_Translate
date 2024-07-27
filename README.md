@@ -1,4 +1,4 @@
-[![GitHub](https://img.shields.io/github/license/blackary/streamlit-keyup.svg)](LICENSE)
+[![GitHub](https://img.shields.io/github/license/blackary/streamlit-keyup.svg)](https://github.com/PhuongFX/Audio_Transcribe_Translate/blob/196bc56bb8a2b59b74a2297a84eef83c025d23a4/LICENSE)
 
 ---
 title: Audio Transcribe Translate
