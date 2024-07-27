@@ -10,6 +10,11 @@ pinned: false
 license: mit
 ---
 
+<p align='center'>
+  <img src="https://github.com/PhuongFX/Audio_Transcribe_Translate/blob/b7988059f481ef1e270a96416f4a2b312d62548d/Interfaces/Screenshot%202024-07-28%20003650.jpg" />
+</p>
+
+
 
 ## Description 📝
 
