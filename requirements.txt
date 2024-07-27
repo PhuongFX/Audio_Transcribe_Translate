@@ -1,0 +1,4 @@
+torch
+gradio
+transformer
+spaces
