@@ -29,7 +29,7 @@ license: mit
 
   - Upload an audio file or record a new one directly in the app.
   - Transcribe the audio into text, allow copy and paste function for further use.
-  - Or/ Translates the transcribed text into multiple languages.
+  - Or/ Translates the transcribed text into multiple languages (400+ languages)
 
 ## Usage 🤗
 
