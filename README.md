@@ -1,4 +1,4 @@
-[![HF App](https://huggingface.co/datasets/huggingface/badges/resolve/main/open-in-hf-spaces-xl-dark.svg)](https://huggingface.co/spaces/PhuongPhan/Audio_Transcribe_Translate)
+**STT Translate & Transcribe!** [![HF App](https://huggingface.co/datasets/huggingface/badges/resolve/main/open-in-hf-spaces-xl-dark.svg)](https://huggingface.co/spaces/PhuongPhan/Audio_Transcribe_Translate)
 ==========================
 Gradio_GenerativeAI Tool To Transcribe & Translate Audio
 
