@@ -16,7 +16,7 @@ Gradio_GenerativeAI Tool To Transcribe & Translate Audio
 
 
 
-## Description 📝
+## About 📝
 
     > Using OpenAI Whisper Base model to transcribe audio files into text Google Madlad model to translate transcribed texts into multiple languages. 
     > Enabling users to convert spoken words into written text. 
