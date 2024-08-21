@@ -1,6 +1,6 @@
 [![HF App](https://huggingface.co/datasets/huggingface/badges/resolve/main/open-in-hf-spaces-xl-dark.svg)](https://ml-online-gaming-lvpredict.streamlit.app)
 ==========================
-Gradio GenerativeAI Tool To Transcribe & Translate Audio
+Gradio_GenerativeAI Tool To Transcribe & Translate Audio
 
 [![License: AGPL-3.0](https://img.shields.io/badge/License-AGPL%203.0-blue.svg)](https://github.com/PhuongFX/ML_Analyzing-Online-Gaming-Behavior/blob/main/LICENSE)
 [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/)
