@@ -1,30 +1,14 @@
-
-
 [![License: AGPL-3.0](https://img.shields.io/badge/License-AGPL%203.0-blue.svg)](https://github.com/PhuongFX/ML_Analyzing-Online-Gaming-Behavior/blob/main/LICENSE)
 [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/)
-[![Gradio](https://img.shields.io/badge/Gradio-3.0-orange.svg)](https://gradio.app/)
+[![Gradio](https://img.shields.io/badge/Gradio-4.39.0-orange.svg)](https://gradio.app/)
 [![PyTorch](https://img.shields.io/badge/PyTorch-green.svg)](https://pytorch.org/)
 [![Generative AI](https://img.shields.io/badge/Generative%20AI-🤖-green.svg)](https://en.wikipedia.org/wiki/Generative_model)
 [![Hugging Face](https://img.shields.io/badge/Hugging%20Face-📊-red.svg)](https://huggingface.co/datasets/huggingface/online-gaming-behavior)
 
 
-
----
-title: Audio Transcribe Translate
-emoji: 🚀
-colorFrom: purple
-colorTo: yellow
-sdk: gradio
-sdk_version: 4.39.0
-app_file: app.py
-pinned: false
-license: mit
----
-
 <p align='center'>
   <img src="https://github.com/PhuongFX/Audio_Transcribe_Translate/blob/8ce5e3f0183d4b9b081a01c41c71d092c087acf0/Interfaces/Screenshot%202024-07-27%20230331.jpg" />
 </p>
-
 
 
 
