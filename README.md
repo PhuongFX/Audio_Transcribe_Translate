@@ -96,8 +96,8 @@ If you have any suggestions or contributes to the project, please let me know! I
 
 To get started with this project, you'll need to:
 
-* Install the required libraries, including TensorFlow, Keras, and OpenCV 📦
-* Download the dataset from Kaggle 📈
-* Run the code to train and evaluate the model 🤖
+* Clone the repository
+* Install the required libraries using `pip install -r requirements.txt`📦
+* Run the code using `python train.py` 🤖
 
 
