@@ -7,7 +7,9 @@ Gradio_GenerativeAI Tool To Transcribe & Translate Audio
 [![Gradio](https://img.shields.io/badge/Gradio-4.39.0-orange.svg)](https://gradio.app/)
 [![PyTorch](https://img.shields.io/badge/PyTorch-green.svg)](https://pytorch.org/)
 [![Generative AI](https://img.shields.io/badge/Generative%20AI-🤖-green.svg)](https://en.wikipedia.org/wiki/Generative_model)
-[![Hugging Face](https://img.shields.io/badge/Hugging%20Face-📊-red.svg)](https://huggingface.co/datasets/huggingface/online-gaming-behavior)
+[![Transformer](https://img.shields.io/badge/Transformer-4.17.0-red.svg)](https://huggingface.co/transformers)
+
+
 
 
 <p align='center'>
