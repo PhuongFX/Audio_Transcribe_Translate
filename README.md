@@ -85,8 +85,6 @@ The OpenAI Whisper Base model and Google Madlad model are pre-trained models and
 
 
 ## `Get Involved!` 😌
-This project demonstrates the potential of deep learning for butterfly species identification. 
-The model achieves high accuracy and can be used as a starting point for further research and development in this field. 
 
 I hope you found this project informative and engaging! 😊  
 If you have any suggestions or contributes to the project, please let me know! I'd love to hear from you.
