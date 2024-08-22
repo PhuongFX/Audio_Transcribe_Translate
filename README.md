@@ -97,7 +97,7 @@ If you have any suggestions or contributes to the project, please let me know! I
 To get started with this project, you'll need to:
 
 * Clone the repository
-* Install the required libraries using `pip install -r requirements.txt`📦
-* Run the code using `python train.py` 🤖
+* Install the required dependencies using `pip install -r requirements.txt`📦
+* Run the application using `python app.py` 🤖
 
 
