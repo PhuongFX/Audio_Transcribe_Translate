@@ -16,19 +16,20 @@ Gradio_GenerativeAI Tool To Transcribe & Translate Audio
 
 
 
-## About 📝
+## `About` 📝
 
     > Using OpenAI Whisper Base model to transcribe audio files into text Google Madlad model to translate transcribed texts into multiple languages. 
     > Enabling users to convert spoken words into written text. 
     > Supporting various use cases, including transcription of audio files, detection of phrases, speech-to-text generation, and translation of text.
+
     
-## How it Works 🫶
+## `How it Works` 🫶
 
   - Upload an audio file or record a new one directly in the app.
   - Transcribe the audio into text, allow copy and paste function for further use.
   - Or/ Translates the transcribed text into multiple languages (400+ languages)
 
-## Usage 🤗
+## `Usage` 🤗
 
   - Transcribe audio files for note-taking, research, or content creation
   - Detect phrases or keywords in audio recordings for data analysis or market research
@@ -36,7 +37,7 @@ Gradio_GenerativeAI Tool To Transcribe & Translate Audio
   - Use the app for language learning, by transcribing audio files in a foreign language and practicing pronunciation
   - Translate the transcribed text into multiple languages for global communication
 
-## Features 🎉
+## `Features` 🎉
 
 1. Supports audio files and live recording 📻
 2. Uses the OpenAI Whisper Base model for speech recognition 💬
@@ -45,7 +46,7 @@ Gradio_GenerativeAI Tool To Transcribe & Translate Audio
 5. Translates the transcribed text into multiple languages using the Google Madlad model 🌎
 
 
-## Model Details 📊   
+## `Model Details` 📊   
 <p style='text-align: center'>"
 				"🐤 <a href='https://huggingface.co/openai/whisper-small' target='_blank'>OpenAI Whisper</a> | "
 				"🧑‍💻 <a href='https://huggingface.co/google/madlad400-3b-mt' target='_blank'>Google Madlad</a> |"
@@ -77,9 +78,28 @@ Gradio_GenerativeAI Tool To Transcribe & Translate Audio
 See the [research paper](https://arxiv.org/pdf/2309.04662.pdf) for further details.
 
     
-## Disclaimer 🙅‍♂️
+## `🙅‍♂️Disclaimer`
 
-> This app is for personal use only and should not be used for commercial purposes.
+> This app is licensed under AGPL-3.0 License and is for personal use only and should not be used for commercial purposes.
 The OpenAI Whisper Base model and Google Madlad model are pre-trained models and may not always produce accurate results.
+
+
+## `Get Involved!` 😌
+This project demonstrates the potential of deep learning for butterfly species identification. 
+The model achieves high accuracy and can be used as a starting point for further research and development in this field. 
+
+I hope you found this project informative and engaging! 😊  
+If you have any suggestions or contributes to the project, please let me know! I'd love to hear from you.
+* [Follow me on GitHub](https://github.com/PhuongFX)
+* [Follow me on Hugging Face](https://huggingface.co/PhuongFX)
+
+
+## `Getting Started` 🚀
+
+To get started with this project, you'll need to:
+
+* Install the required libraries, including TensorFlow, Keras, and OpenCV 📦
+* Download the dataset from Kaggle 📈
+* Run the code to train and evaluate the model 🤖
 
 
