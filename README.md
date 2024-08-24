@@ -87,6 +87,7 @@ The OpenAI Whisper Base model and Google Madlad model are pre-trained models and
 
 
 ## `Get Involved!` 😌
+
 I hope you found this project informative and engaging! 😊  
 If you're interested in collaborating and contributing to the project, please let me know! I'd love to hear from you.
 * [Follow me on GitHub](https://github.com/PhuongFX)
