@@ -87,9 +87,8 @@ The OpenAI Whisper Base model and Google Madlad model are pre-trained models and
 
 
 ## `Get Involved!` 😌
-
 I hope you found this project informative and engaging! 😊  
-If you have any suggestions or contributes to the project, please let me know! I'd love to hear from you.
+If you're interested in collaborating and contributing to the project, please let me know! I'd love to hear from you.
 * [Follow me on GitHub](https://github.com/PhuongFX)
 * [Follow me on Hugging Face](https://huggingface.co/PhuongFX)
 
@@ -102,4 +101,4 @@ To get started with this project, you'll need to:
 * Install the required dependencies using `pip install -r requirements.txt`📦
 * Run the application using `python app.py` 🤖
 
-
+Enjoy working with the content! 😊
