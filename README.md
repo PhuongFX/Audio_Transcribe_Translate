@@ -8,8 +8,7 @@ Gradio_GenerativeAI Tool To Transcribe & Translate Audio
 [![PyTorch](https://img.shields.io/badge/PyTorch-green.svg)](https://pytorch.org/)
 [![Generative AI](https://img.shields.io/badge/Generative%20AI-🤖-green.svg)](https://en.wikipedia.org/wiki/Generative_model)
 [![Transformer](https://img.shields.io/badge/Transformer-4.17.0-red.svg)](https://huggingface.co/transformers)
-
-
+[![Open Source](https://img.shields.io/badge/Open%20Source-%E2%9D%A4-green.svg)](https://opensource.org/)
 
 
 <p align='center'>
