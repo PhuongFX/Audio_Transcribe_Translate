@@ -68,7 +68,7 @@ with gr.Blocks() as demo:
        
         <div style="text-align: left;">
             <a href='https://huggingface.co/PhuongPhan'><img style='display: inline-block; margin: 0; padding: 0;' src='https://huggingface.co/datasets/huggingface/badges/resolve/main/follow-me-on-HF-sm-dark.svg' alt='Follow me on HF'></a>
-            <a href='https://huggingface.co/Chunte'><img style='display: inline-block; margin: 0; padding: 0;' src='https://img.shields.io/badge/GitHub%20Pages-121013?logo=github&logoColor=white' alt='GitHub Pages'></a>
+            <a href='https://github.com/PhuongFX'><img style='display: inline-block; margin: 0; padding: 0;' src='https://img.shields.io/badge/GitHub%20Pages-121013?logo=github&logoColor=white' alt='GitHub Pages'></a>
         </div>
 
         """ )
